@@ -1,0 +1,33 @@
+header{
+    height: 150px;
+}
+
+header h1{
+ color: blue;
+ font: 200 60px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-align: center;
+}
+
+.container{
+    display: flex;
+    padding-left: 300px;
+}
+.shira{
+    padding: 0 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+
+.ryu{
+    padding: 0 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+
+footer h2{
+    color: grey;
+    font: 200 20px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
